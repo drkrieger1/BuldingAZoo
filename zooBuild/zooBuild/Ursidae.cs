@@ -6,6 +6,6 @@ namespace zooBuild
 {
     abstract class Ursidae : Mammals
     {
-
+        public abstract void Hairtype();
     }
 }

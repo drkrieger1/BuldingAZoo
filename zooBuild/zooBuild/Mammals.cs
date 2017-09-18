@@ -8,11 +8,11 @@ namespace zooBuild
     {
         public string HairColor { get; set; }
 
-        public abstract bool hair(); 
+        public abstract bool Hair(); 
 
         public void GiveBirth()
         {
-            Console.WriteLine("Gives birth to living young");
+            Console.WriteLine("Give birth to living young");
         }
 
 
